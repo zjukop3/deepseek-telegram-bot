@@ -1,0 +1,23 @@
+{
+  "name": "deepseek-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for DeepSeek (and any OpenAI-compatible gateway): zero dependencies, context-aware chat, model switching, group support.",
+  "type": "module",
+  "main": "index.js",
+  "bin": { "deepseek-telegram-bot": "index.js" },
+  "scripts": { "start": "node index.js" },
+  "keywords": [
+    "deepseek",
+    "telegram-bot",
+    "bot",
+    "telegram",
+    "llm",
+    "openai-compatible",
+    "chatbot",
+    "deepseek-chat",
+    "deepseek-reasoner"
+  ],
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "dependencies": {}
+}
