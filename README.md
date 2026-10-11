@@ -23,6 +23,11 @@ Telegram bot for **DeepSeek** (and any OpenAI-compatible gateway) — **zero run
 - **群聊支持**：群里 @bot 或回复触发，私聊直接对话
 - **Markdown 回复**：解析失败自动降级纯文本
 
+
+## 🌐 在线体验
+
+bot 已在运行：[@DeepSeek_Companion_bot](https://t.me/DeepSeek_Companion_bot) —— 打开 Telegram 发消息直接对话。
+
 ## 🚀 快速开始
 
 ```bash
